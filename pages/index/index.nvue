@@ -1,0 +1,30 @@
+<template>
+	<div class="content">
+		<!-- 头部 -->
+		<NavigationHeader />
+	</div>
+</template>
+
+<script>
+	import NavigationHeader from '@/components/NavigationHeader/NavigationHeader'
+	
+	export default {
+		data() {
+			return {
+				
+			};
+		},
+		
+		components : {
+			NavigationHeader,
+		},
+		
+		created(){
+			
+		},
+	}
+</script>
+
+<style lang="scss">
+
+</style>
