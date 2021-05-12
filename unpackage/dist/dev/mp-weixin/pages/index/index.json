@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "navigation-header": "/components/NavigationHeader/NavigationHeader"
-  }
-}
